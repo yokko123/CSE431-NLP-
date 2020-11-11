@@ -1,0 +1,5 @@
+Rahman
+Rehman
+Rohman
+Ruhman
+[^a-zA-Z][Rr][a|o|u|e]hman[^a-zA-Z]
