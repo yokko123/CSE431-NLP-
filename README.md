@@ -1,2 +1,2 @@
-# CSE431-NLP-
+# CSE431-NLP-Assignments
 Natural Language Processing
